@@ -4,7 +4,7 @@
 
 调用contract.info() 后根据结果提示，依次调用下去；
 最后完成题解；
-![picture](note/picture/1.png)
+![](https://github.com/Daciwan/Daciwan.github.io/blob/main/note/picture/1.png?raw=true)
 
 ***
 
